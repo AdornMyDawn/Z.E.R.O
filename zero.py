@@ -17,6 +17,6 @@ personality = Personality()
 while True: 
         command = input(">>>").lower()
         if command in ["quit exit q"]:
-            print("Goodnight maam")
+            print("Goodnight ma'am")
             sys.exit()
 
